@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+   cout << "Hello World"; // In dong chu Hello World
+   return 0;
+   cout<<"Nhap so nguyen a"
+   cin>>a
+   cout<<"Nhap so nguyen b"
+   cin>>b
+   cout<<"Nhap so nguyen c"
+   cin>>c
+}
